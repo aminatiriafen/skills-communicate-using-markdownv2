@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Aminat has a dog!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
